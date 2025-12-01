@@ -1,7 +1,12 @@
 # Scroll-Dial
 A scroll dial using the AS5600 sensor and a small macropad for ajusting stuff like functionality
 
+## Features
 
+- Smooth and very accurate scrolling up to 0.08°
+- AS5600L sensor
+- Wireless
+- Macropad for more functionality 
 # BOM
 
 | Part             | Quantity | Price  | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Notes     |
@@ -15,5 +20,25 @@ A scroll dial using the AS5600 sensor and a small macropad for ajusting stuff li
 | Power Switch     | 10       | $10.38 | [aliexpress](https://www.aliexpress.com/item/1005008771937227.html?spm=a2g0o.cart.0.0.705738daIoYdzj&mp=1&pdp_npi=5%40dis%21EUR%21EUR%208.95%21EUR%208.95%21%21EUR%208.95%21%21%21%40211b819117645104650325232e8b7d%2112000046606678311%21ct%21PT%216372042523%21%211%210)                                                                                                                                                                                                                                                                                                                                                                                                     |           |
 | Pin Header       | 10       | $1.28  | [aliexpress](https://www.aliexpress.com/item/1005005112381207.html?spm=a2g0o.cart.0.0.705738daIoYdzj&mp=1&pdp_npi=5%40dis%21EUR%21EUR%201.10%21EUR%201.10%21%21EUR%201.10%21%21%21%40211b819117645104650325232e8b7d%2112000031702599010%21ct%21PT%216372042523%21%211%210)                                                                                                                                                                                                                                                                                                                                                                                                     |           |
 
-
 **Total:** $109.49
+
+# Overview
+
+This will cover the PCB, Schematic and 3D models of both the Sccoll dial as the Macropad
+
+---
+## Schematic
+
+
+
+---
+## PCB
+
+The PCB's was made in Kicad
+
+---
+## 3D models
+
+
+
+---
