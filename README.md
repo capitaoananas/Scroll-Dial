@@ -62,7 +62,7 @@ All the models were made in Fusion
 
 ### Macropad
 
-|                                             Top                                              |                                             Side                                             | Power and USBC                                                                              |
+|                                             Top                                              |                                             Side                                             | ON/OFF and USBC                                                                             |
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------- |
 | ![macropad](Pictures/macropad_case_2025-Nov-30_02-56-43PM-000_CustomizedView28735143167.png) | ![macropad](Pictures/macropad_case_2025-Nov-30_02-55-49PM-000_CustomizedView21243335177.png) | ![macropad](Pictures/macropad_case_2025-Nov-30_03-00-45PM-000_CustomizedView8026248867.png) |
 
