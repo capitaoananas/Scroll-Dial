@@ -29,12 +29,21 @@ This will cover the PCB, Schematic and 3D models of both the Sccoll dial as the 
 ---
 ## Schematic
 
+The Schematic was made in KiCAD
 
+|                       Dial                       |                       Macropad                       |
+| :----------------------------------------------: | :--------------------------------------------------: |
+| ![dial](Pictures/Screenshot_20251202_160416.png) | ![macropad](Pictures/Screenshot_20251202_155000.png) |
 
 ---
 ## PCB
 
-The PCB's was made in Kicad
+The PCB's was made in KiCAD
+
+|                       Dial                       |                       Macropad                       |
+| :----------------------------------------------: | :--------------------------------------------------: |
+| ![dial](Pictures/Screenshot_20251202_160512.png) | ![macropad](Pictures/Screenshot_20251202_154838.png) |
+
 
 ---
 ## 3D models
