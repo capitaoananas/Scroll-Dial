@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pictures/Screenshot_20251202_154838.png"
+                "file": "Pictures/macropad_case_2025-Nov-30_03-00-45PM-000_CustomizedView8026248867.png"
               },
               "icon": "lucide-image",
-              "title": "Screenshot_20251202_154838"
+              "title": "macropad_case_2025-Nov-30_03-00-45PM-000_CustomizedView8026248867"
             }
           }
         ]
@@ -197,17 +197,17 @@
   },
   "active": "2dac877d4f7ce0e5",
   "lastOpenFiles": [
-    "Pictures/Screenshot_20251202_154838.png",
-    "README.md",
-    "Pictures/Screenshot_20251202_160512.png",
-    "Pictures/Screenshot_20251202_160416.png",
-    "Pictures/Screenshot_20251202_155000.png",
-    "Pictures/scroll_dial_2025-Nov-30_03-02-07PM-000_CustomizedView6494758873.png",
-    "Pictures/scroll_dial_2025-Nov-30_03-01-35PM-000_CustomizedView11011293024.png",
+    "Pictures/macropad_case_2025-Nov-30_03-00-45PM-000_CustomizedView8026248867.png",
     "Pictures/macropad_case_2025-Nov-30_02-56-43PM-000_CustomizedView28735143167.png",
     "Pictures/macropad_case_2025-Nov-30_02-55-49PM-000_CustomizedView21243335177.png",
-    "Pictures/43d13a97-a4c2-4b8c-a1fc-21a193e078ba.PNG",
-    "Pictures/6fdc659c-3224-4fab-b076-40f20880ac06.PNG",
+    "README.md",
+    "Pictures/Screenshot_20251202_154838.png",
+    "Pictures/Screenshot_20251202_155000.png",
+    "Pictures/Screenshot_20251202_160416.png",
+    "Pictures/Screenshot_20251202_160512.png",
+    "Pictures/scroll_dial_2025-Nov-30_03-01-35PM-000_CustomizedView11011293024.png",
+    "Pictures/scroll_dial_2025-Nov-30_03-02-07PM-000_CustomizedView6494758873.png",
+    "Pictures/scroll_dial_2025-Nov-30_03-02-57PM-000_CustomizedView2034680156.png",
     "Kicad/tiny macropad.pdf"
   ]
 }

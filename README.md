@@ -48,6 +48,22 @@ The PCB's was made in KiCAD
 ---
 ## 3D models
 
+All the models were made in Fusion
 
+### Dial
+
+|                                         Base                                          |                                          Top                                           | Bottom                                                     |
+| :-----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | ---------------------------------------------------------- |
+| ![dial](Pictures/scroll_dial_2025-Nov-30_03-03-21PM-000_CustomizedView6686776803.png) |   ![](Pictures/scroll_dial_2025-Nov-30_03-03-51PM-000_CustomizedView11241589860.png)   | ![dial](Pictures/43d13a97-a4c2-4b8c-a1fc-21a193e078ba.PNG) |
+|                                     Base with PCB                                     |                                      Fully built                                       | Bare PCB                                                   |
+| ![dial](Pictures/scroll_dial_2025-Nov-30_03-02-07PM-000_CustomizedView6494758873.png) | ![dial](Pictures/scroll_dial_2025-Nov-30_03-01-35PM-000_CustomizedView11011293024.png) | ![dial](Pictures/6fdc659c-3224-4fab-b076-40f20880ac06.PNG) |
+
+---
+
+### Macropad
+
+|                                             Top                                              |                                             Side                                             | Power and USBC                                                                              |
+| :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------- |
+| ![macropad](Pictures/macropad_case_2025-Nov-30_02-56-43PM-000_CustomizedView28735143167.png) | ![macropad](Pictures/macropad_case_2025-Nov-30_02-55-49PM-000_CustomizedView21243335177.png) | ![macropad](Pictures/macropad_case_2025-Nov-30_03-00-45PM-000_CustomizedView8026248867.png) |
 
 ---
