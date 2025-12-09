@@ -1,5 +1,5 @@
 Part,Quantity,Price,Link,Notes
-PCB,5,$32.88,https://jlcpcb.com/,With PCBA
+PCB,5,$8.84,https://jlcpcb.com/,
 Bearing,1,$42.19,https://pt.aliexpress.com/item/1005007985984153.html,
 Leds,100,$4.51,https://pt.aliexpress.com/item/1005005186515165.html,
 3v to 5V step up,1,$2.54,https://pt.aliexpress.com/item/1005008417702599.html,
@@ -7,4 +7,5 @@ Battery,2,$8.03,https://www.aliexpress.com/item/1005007590699841.html,
 Keycaps,10,$4.78,https://www.aliexpress.com/item/4000354001038.html,
 Power Switch,10,$10.38,https://www.aliexpress.com/item/1005008771937227.html,
 Pin Header,10,$1.28,https://www.aliexpress.com/item/1005005112381207.html,
-Total,, $83.86,,
+AS5600 board,1,$1.31,https://pt.aliexpress.com/item/1005001621701959.html,To desolder components
+Total,,$83.86,,
